@@ -20,7 +20,7 @@ function Footer() {
                 aria-label="github"
                 target="_blank"
                 rel="noreferrer"
-                href="https://github.com/stefvndev"
+                href="https://github.com/YohanReddy"
               >
               </a>
             </div>
